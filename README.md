@@ -10,7 +10,7 @@ I'm a computer science student and a Python developer who enjoys building projec
 
 ## 🚀 About Me
 
-- 🎓 Studying Computer Science
+- 🎓 Studying Computer Engineering
 - 🐍 Mainly working with Python
 - 🎮 Interested in game development and software projects
 - 🌱 Always learning and improving my coding skills
