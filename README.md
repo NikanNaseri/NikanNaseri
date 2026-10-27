@@ -21,7 +21,7 @@ I'm a computer Engineering student and a Python developer who enjoys building pr
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,github,vscode&theme=dark" alt="Python, Git, GitHub, and VS Code" />
 </p>
 
 ---
