@@ -1,6 +1,6 @@
 # Hi there, I'm Nikan! 👋
 
-### 🐍 Python Developer | Computer Science Student
+### 🐍 Python Developer | Computer Engineering Student
 
 Welcome to my GitHub profile!
 
@@ -38,7 +38,7 @@ The project is organized into separate components for the client, server, and ga
 - 🌐 Client-server communication
 - 🧩 Separated game logic and networking components
 
-🔗 **[Explore My Game Repository](https://github.com/YOUR_USERNAME/YOUR_GAME_REPOSITORY)**
+🔗 **[Explore My Game Repository](https://github.com/NikanNaseri/Click-Rush)**
 
 > Replace the repository link above with the actual link to your game project.
 
@@ -48,21 +48,21 @@ The project is organized into separate components for the client, server, and ga
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=NikanNaseri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
     alt="GitHub Statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikanNaseri&layout=compact&theme=github_dark&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"
+    src="https://streak-stats.demolab.com?user=NikanNaseri&theme=github-dark-blue&hide_border=true"
     alt="GitHub Contribution Streak"
   />
 </p>
