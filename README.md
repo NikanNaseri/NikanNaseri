@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a computer science student and a Python developer who enjoys building projects, solving problems, and learning new technologies. I'm continuously improving my programming skills by working on practical projects.
+I'm a computer Engineering student and a Python developer who enjoys building projects, solving problems, and learning new technologies. I'm continuously improving my programming skills by working on practical projects.
 
 ---
 
