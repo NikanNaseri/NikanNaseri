@@ -40,7 +40,6 @@ The project is organized into separate components for the client, server, and ga
 
 🔗 **[Explore My Game Repository](https://github.com/NikanNaseri/Click-Rush)**
 
-> Replace the repository link above with the actual link to your game project.
 
 ---
 
